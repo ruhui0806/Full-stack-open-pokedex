@@ -16,4 +16,4 @@ Start by running `npm install` inside the project folder
 
 # The repo is renamed as:
 
-Full-stack-open-pokedex-1 in github
+Full-stack-open-pokedex in github
