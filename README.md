@@ -17,5 +17,3 @@ Start by running `npm install` inside the project folder
 # The repo is renamed as:
 
 Full-stack-open-pokedex in github
-
-# Push to the master branch triggers the hello-world workflow
